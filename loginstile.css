@@ -59,7 +59,7 @@
     	color:#FF9800;
     	text-transform: uppercase;
     	border-radius: 20px;
-    	margin: 20px;
+        margin-top: 20px;
     }
     .form-control
      {
@@ -84,15 +84,5 @@
      	border-radius: 20px;
      	background: #00263A;;
      }
-     .logo-satto:hover 
-     {
-     	width: 300px; !important
-     	height: 300px;
-     }
-     .button {
-    display: inline-block;
-    padding: 1em;
-    background-color: #79BD9A;
-    text-decoration: none;
-    color: white;
-}
+     
+    
